@@ -3,8 +3,10 @@
 https://ithelp.ithome.com.tw/articles/10187498  
 練習使用Redux操作
 
+## Demo  
 <img src="./demo.gif" />
 
+## Usage
 <pre>
 nvm use stable
 
